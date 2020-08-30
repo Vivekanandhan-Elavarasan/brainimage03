@@ -1,0 +1,4 @@
+1)open the code in visual studio code
+2)Go the directory in the command line or teriminal
+3)type "npm install" and press enter to install node_modules
+4)type "ng serve" and press enter to compile and run
